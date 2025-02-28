@@ -1,2 +1,3 @@
 # Javascript-journey
-javascript
+javascript journey.
+2.0
